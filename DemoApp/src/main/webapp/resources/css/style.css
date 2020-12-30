@@ -1,0 +1,11 @@
+.row {
+  padding: 5px 5px 5px 5px;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.error{
+	color:red;
+}
